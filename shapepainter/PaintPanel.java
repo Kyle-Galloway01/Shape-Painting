@@ -1,6 +1,6 @@
 package Kyle-Galloway01.shapepainter;
 
-import package Kyle-Galloway01.shapes.shapeType;
+import package Kyle-Galloway01.shapes.*;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
