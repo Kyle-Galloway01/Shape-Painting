@@ -1,6 +1,6 @@
-package me.coopersully.shapepainter;
+package me.Kyle-Galloway01.shapepainter;
 
-import me.coopersully.shapepainter.shapes.ShapeType;
+import me.Kyle-Galloway01.shapepainter.shapes;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
