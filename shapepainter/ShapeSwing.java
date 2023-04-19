@@ -1,6 +1,3 @@
-package me.coopersully.shapepainter;
-
-import me.coopersully.shapepainter.shapes.ShapeType;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
